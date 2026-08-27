@@ -1,6 +1,6 @@
 * Blok per blok aanleggen
 	* extensief -> intensief -> hoogstamboomgaard
-		1. grazen/wilding
+		1. grazen/rewilding
 		2. grazen + bomen
 		3. bomen + verkoopsbomen
 		4. boomgaard met hoge en climaxlaag
