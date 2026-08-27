@@ -3,7 +3,7 @@ configuration:
   pageTitle: Veldent
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: nl-BE
@@ -16,8 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Astloch
       header: Schibsted Grotesk
-      body: Source Sans Pro
+      body: Nunito
       code: IBM Plex Mono
     colors:
       lightMode:
