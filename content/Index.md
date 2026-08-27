@@ -1,12 +1,9 @@
 
 ---
-title: Example 
+title: Veldent 
 Titledraft: false
-tags: 
-- example-tag
+
 ---
 
-# Veldent 
 
-Welkom bij Veldent. 
-
+Welkom bij Veldent. Lees meer in de artikels.
