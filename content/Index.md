@@ -1,9 +1,9 @@
 
 ---
-title: Werktitel Veldent 
+title: Veldent 
 Titledraft: false
 
 ---
 
 
-Welkom bij Werktitel Veldent. Lees meer in de artikels.
+Welkom bij Veldent. Lees meer in de artikels.
