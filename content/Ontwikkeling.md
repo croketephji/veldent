@@ -1,3 +1,11 @@
+---
+title: Ontwikkeling
+Titledraft: false
+order: 1
+---
+
+
+
 * Blok per blok aanleggen
 	* extensief -> intensief -> hoogstamboomgaard
 		1. grazen/rewilding

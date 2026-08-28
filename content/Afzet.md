@@ -1,4 +1,8 @@
-
+---
+title: Afzet
+Titledraft: false
+order: 3
+---
 * boompjes en struiken
 	* webshop: blote wortel november-januari, afhalen op de boerderij
 	* potplanten: restjes, of opkweek direct in potten
