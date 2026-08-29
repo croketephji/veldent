@@ -1,9 +1,0 @@
----
-title: Wie zijn wij?
-Titledraft: false
-order: 2
----
-
-Fien en David zijn allebei opgeleid tot bioboer bij Landwijzer. Ze hebben ook samengewerkt bij Hof ter Dreef in Meise. We houden van schoonheid en hard werken, nemen het leven niet serieuzer dan strikt nodig is, en zijn sociaal bewogen.
-
-Een Veldent is een boom die uit een zaadje groeit en ter plaatse geënt wordt. De wortels zijn dus altijd in dezelfde grond gegroeid en . Een veldent wordt een grote en sterke boom, die lang leeft. Deze naam moet geluk brengen aan het project. 
